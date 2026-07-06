@@ -86,6 +86,6 @@ HousePricePrediction/
 
 ## 📌 Author
 
-Sarthak Jain
+Swasti Jain
 
 Elite Tech Internship Task 2...
